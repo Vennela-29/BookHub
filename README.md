@@ -1,6 +1,6 @@
 # BookHub
 
-BookHub is a web-based library management system built with React for the frontend and Node.js for the backend. 
+BookHub is a web-based library management system built with React for the frontend and .NET with C# for the backend. 
 This project allows users to manage books, students, and borrowing activities efficiently.
 
 ## Features
