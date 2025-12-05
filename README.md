@@ -13,4 +13,4 @@ This project allows users to manage books, students, and borrowing activities ef
 
 ### Prerequisites
 
-Before you can run this project locally, you need to have **Node.js** and **npm** installed on your machine since the Node modules folder is not in this repo.
+Before you can run this project locally, you need to have **npm** installed on your machine since the Node modules folder is not in this repo.
